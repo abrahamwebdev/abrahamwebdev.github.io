@@ -1,0 +1,34 @@
+Full Stack JavaScript Developer Guide.
+
+Tools: VSCode, Chrome, Figma,
+
+RoadMap: 
+- HTML/CSS
+- Git/GitHub
+- Responsive Design
+- Tailwind CSS/SASS
+- Vanilla JS
+- Basic Deployment
+- Node
+- React
+- Context API/MobX
+- Next
+- Express
+- GraphQL
+- Database
+- DevOps
+
+Projects to practice HTML & CSS skills.
+
+- Navbar design 
+- Profile card
+- Gradient text effect
+- Invisible card
+- Sections hover
+- Count down button
+- Shine effect
+- Footer design
+- Slide show
+- Simple sign up form
+- CSS calculator 
+- Landing page

@@ -1,0 +1,39 @@
+git init
+git status
+git config --global user.name 'abraham'
+git config --global user.email 'agthankachan007@gmail.com'
+git add filename
+git rm --cached index.html
+git add *.html
+git add .
+git commit -m "message"
+git branch login
+git checkout login
+git remote
+git remote add origin (link)
+git remote 
+git push -u origin master
+git clone (link)
+git pull
+git commit -am "message"
+git reset --hard <commit>
+git reset --hard origin/master
+
+_________________
+***branching***
+_________________
+git branch
+git checkout -b style
+git checkout master
+
+pages
+------
+repository name= username.github.io
+  
+frst
+git init
+git add file.html
+git status
+git commit -m "first"
+git remote add origin https://github.com/Abraham-7-droid/webdev1.git
+ git push -u origin master

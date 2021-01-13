@@ -1,0 +1,110 @@
+EMMET link- https://code.visualstudio.com/docs/editor/emmet
+Visual Studio Code Tips and Tricks- https://code.visualstudio.com/docs/getstarted/tips-and-tricks
+
+Command Palette#
+Access all available commands based on your current context.
+Keyboard Shortcut: Ctrl+Shift+P ;
+
+terminal- Ctrl + ` ; ` is backtick;
+
+Copy current line up/down - Alt + Shift + Up/down;
+
+Highlight every instance/occurance of a word- Ctrl + Shift + L;
+
+Multiple  Cursor - Alt + Click;
+
+Comment a specific line- Ctrl + /;
+
+Quick Open#
+Quickly open files.
+Keyboard Shortcut: Ctrl+P 
+
+Tip: Type ? to view commands suggestions.
+
+Toggle Sidebar#
+Keyboard Shortcut: Ctrl+B
+
+Toggle Panel#
+Keyboard Shortcut: Ctrl+J
+
+Zen mode#
+Keyboard Shortcut: Ctrl+K Z
+
+Enter distraction free Zen mode.
+Press Esc twice to exit Zen Mode
+
+Switch between editors#
+Keyboard Shortcut: Ctrl+1, Ctrl+2, Ctrl+3
+
+Move to Explorer window#
+Keyboard Shortcut: Ctrl+Shift+E
+
+Create or open a file#
+Keyboard Shortcut: Ctrl+click (Cmd+click on macOS)
+You can quickly open a file or image or create a new file by moving the cursor to the file link and using Ctrl+click.
+
+Close the currently opened folder#
+Keyboard Shortcut: Ctrl+F4
+
+Navigation history#
+Navigate entire history: Ctrl+Tab
+
+Multi cursor selection#
+To add cursors at arbitrary positions, select a position with your mouse and use Alt+Click (Option+click on macOS).
+To set cursors above or below the current position use:
+Keyboard Shortcut: Ctrl+Alt+Up or Ctrl+Alt+Down
+
+Move line up and down#
+Keyboard Shortcut: Alt+Up or Alt+Down
+
+----------------------------
+Not So important ,but useful
+----------------------------
+
+
+Navigate to a specific line#
+Keyboard Shortcut: Ctrl+G
+
+Undo cursor position#
+Keyboard Shortcut: Ctrl+U
+
+Trim trailing whitespace#
+Keyboard Shortcut: Ctrl+K Ctrl+X
+
+Transform text commands#
+You can change selected text to uppercase, lowercase, and title case with the Transform commands from the Command Palette.
+
+Transform text commands
+
+Code formatting#
+Currently selected source code: Ctrl+K  Ctrl+F
+
+Whole document format: Shift+Alt+F
+
+code formatting
+Code formatting#
+Currently selected source code: Ctrl+K Ctrl+F
+Whole document format: Shift+Alt+F
+
+Code folding#
+Keyboard Shortcut: Ctrl+Shift+[ and Ctrl+Shift+]
+You can also fold/unfold all regions in the editor with Fold All (Ctrl+K Ctrl+0) and Unfold All (Ctrl+K Ctrl+J).
+You can fold all block comments with Fold All Block Comments (Ctrl+K Ctrl+/).
+
+Select current line#
+Keyboard Shortcut: Ctrl+L
+
+Navigate to beginning and end of file#
+Keyboard Shortcut: Ctrl+Home and Ctrl+End
+
+Open Markdown preview#
+In a Markdown file, use
+Keyboard Shortcut: Ctrl+Shift+V
+
+Side by side Markdown edit and preview#
+In a Markdown file, use
+Keyboard Shortcut: Ctrl+K V
+The preview and editor will synchronize with your scrolling in either view.
+
+IntelliSense#
+Ctrl+Space to trigger the Suggestions widget.
