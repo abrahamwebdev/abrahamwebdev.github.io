@@ -1,0 +1,8 @@
+Comparing MongoDB vs MySQL-https://www.mongodb.com/compare/mongodb-mysql#:~:text=MongoDB%20uses%20the%20MongoDB%20Query,syntax%20for%20common%20database%20operations.
+
+What is Web Development?-https://blog.openclassrooms.com/en/2018/03/28/web-development-definition/
+https://en.wikipedia.org/wiki/Web_development
+https://careerfoundry.com/en/blog/web-development/what-does-it-take-to-become-a-web-developer-everything-you-need-to-know-before-getting-started/
+
+EMMET link- https://code.visualstudio.com/docs/editor/emmet
+Visual Studio Code Tips and Tricks- https://code.visualstudio.com/docs/getstarted/tips-and-tricks
