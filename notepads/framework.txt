@@ -1,0 +1,23 @@
+Framework is just a 'Technology' which provides tools or solutions which help software developers to create,customize,maintain web applications,services and websites.A web application framework can also be defined as a set of software tools that helps people build websites easier.Frameworks are generally more scalable.There are different frameworks for different languages.You don't necessarily need to study all frameworks.You can choose any.
+CSS Frameworks
+Bootstap is most popular.But it does not mean that one should use only most popular ones.Some frameworks are used for some specific purposes,like Bulma is light weight framework.Tailwind is getting very popular in recent months.
+Bootstrap
+Foundation
+Tailwind CSS
+Bulma
+Materialize
+UIkit
+Semantic UI
+Milligram
+
+
+
+JavaScript Frameworks
+The most popular is JavaScript framework is React Js.The other popular ones are Angular and Vue Js.Angular is going in a downward trend in recent times.React is often  referred as library but it serves the same purpose as other frameworks.My personal choice is React Js.
+Popular JavaScript Frameworks
+React JS
+Vue JS
+Angular JS
+Ember JS
+Backbone JS
+Meteor JS
